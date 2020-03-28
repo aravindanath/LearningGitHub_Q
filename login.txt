@@ -1,8 +1,7 @@
-Hhello java
+ git status
+ git add filename.ext
+ git add filename2.ext
 
-Hello
-Bye
-
-Learning git
-
-Adding new line 
+ Git commit -m "Commit msg"
+ git push 
+ 
